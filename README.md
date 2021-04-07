@@ -1,7 +1,7 @@
 # WebProgramiranje
 
 
-JSP
+JSP and Servlet 
 
 
 add database "webAerodrom" > file.sql
