@@ -1,0 +1,249 @@
+@media screen and (max-width: 770px) {
+	.descriptionDiv p, #btnFilter, #leftNavigation, #btnUsersFilter,
+		#userFilterPanel, #userSortPanel {
+		visibility: hidden;
+	}
+}
+
+body {
+	background-color: #71a75f;
+}
+
+p {
+	color: #FFFFFF;
+}
+
+a:hover {
+	cursor: pointer;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+td {
+	color: #71a75f;
+}
+
+.upload-hr {
+	width: 40%;
+}
+
+.stylish-input-group .input-group-addon {
+	background: white !important;
+}
+
+.stylish-input-group button {
+	border: 0;
+	background: transparent;
+}
+
+.signUpInForm {
+	max-width: 30%;
+	margin: 0 auto;
+}
+
+.uploadForm {
+	max-width: 60%;
+	margin: 0 auto;
+}
+
+.widthWide {
+	width: 100%;
+	margin-top: 5%;
+}
+
+.nav_div_margin {
+	margin-top: 10%;
+}
+
+.div_div_margin {
+	margin-top: 5%;
+}
+
+.descrptionArea {
+	max-width: 100%;
+	min-width: 100%;
+}
+
+.uploadDescHeight {
+	min-height: 100px;
+}
+
+.success {
+	color: #008000
+}
+
+.error {
+	color: #FF0000;
+}
+
+.warrning {
+	color: #ff8000;
+}
+
+.whiteClr {
+	color: #FFFFFF;
+}
+
+.centerLabel {
+	width: 100%;
+	text-align: center;
+}
+
+.videoItem {
+	display: flex;
+	width: 100%;
+	min-height: 100px;
+	max-height: 100px;
+}
+
+.itemImg {
+	width: 15%;
+}
+
+.itemText {
+	width: 85%;
+	height: 100%;
+	margin-left: 2%;
+}
+
+.itemTextData {
+	margin-right: 3%;
+	float: left;
+}
+
+.distance-bottom {
+	margin-bottom: 3%;
+}
+
+.distance-top {
+	margin-top: 3%;
+}
+
+.vid-vid-distance {
+	margin-bottom: 1%;
+}
+
+.videoHeader * {
+	display: inline;
+}
+
+#videoH {
+	width: 65%;
+}
+
+#videoData {
+	float: right;
+	width: 35%;
+}
+
+.pointer-cursor {
+	cursor: pointer;
+}
+
+.videoDataP {
+	margin-right: 2%;
+}
+
+.margin-ten {
+	margin-right: 10%;
+}
+
+#videoDescription {
+	background-color: #222;
+	color: #FFFFFF;
+	border: 0;
+}
+
+#commentArea {
+	margin-bottom: 1%;
+	max-width: 100%;
+	min-width: 100%;
+	min-height: 50px
+}
+
+.commentBtn {
+	float: right;
+}
+
+.vLine {
+	border-left: 2px solid orange;
+	border-right: 2px solid orange;
+	height: 100%;
+}
+
+.comments-margin {
+	margin-left: 1%;
+}
+
+.paragraphSize {
+	font-size: 10px;
+}
+
+.not-active-link {
+	pointer-events: none;
+	cursor: default;
+}
+
+.bg-color {
+	background-color: #222;
+}
+
+.float-left {
+	float: left;
+}
+
+.left {
+	background: #222;
+	width: 10%;
+	float: left;
+}
+
+.left .glyphicon {
+	margin: 15px;
+	width: 20px;
+	color: #fff;
+}
+
+.item {
+	height: 40px;
+	min-width: 150px;
+	overflow: hidden;
+	color: #fff;
+}
+
+.leftNav-hpVideos-margin {
+	margin-left: 15%;
+}
+
+.border-white {
+	border: 1px solid white;
+}
+
+.fit-container {
+	width: 100%;
+	height: 100%;
+}
+
+.red-hr {
+	border-top: 1px solid red;
+}
+
+.picture-size {
+	height: 128px;
+	width: 128px;
+}
+
+.picture-size-small {
+	height: 40px;
+	width: 40px;
+}
+
+.comment-img {
+	margin-left: 5%;
+}
+
+.bigR-margin {
+	margin-right: 78%;
+}
